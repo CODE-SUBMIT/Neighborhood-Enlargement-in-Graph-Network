@@ -12,4 +12,4 @@ python main.py --help
 
 to learn hyper-parameters to be specified.
 
-Stay Tune for results of more benchmarks.
+Results of more benchmarks will be released soon.
